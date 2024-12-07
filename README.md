@@ -15,9 +15,9 @@ This structured six-month plan gradually introduces core DSA concepts and patter
 - **Topics**: Two-pointer, Sliding Window, HashMap basics
 - **Patterns**: Prefix Sum, Running Sum
 - **Practice**:
-    1. **[Easy]** [Two Sum](https://leetcode.com/problems/two-sum/)
-    2. **[Easy]** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-    3. **[Easy]** [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/)
+    1. **[Easy]** [Two Sum](https://leetcode.com/problems/two-sum/)    ✅
+    2. **[Easy]** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  ✅
+    3. **[Easy]** [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/) ✅
     4. **[Medium]** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     5. **[Medium]** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     6. **[Medium]** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
